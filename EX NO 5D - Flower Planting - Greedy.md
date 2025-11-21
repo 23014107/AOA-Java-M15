@@ -56,7 +56,7 @@ A valid flower assignment always exists
 ```
 /*
 Program to implement Reverse a String
-Developed by: Ramya.p
+Developed by: Ramya.P
 Register Number:  212223240137
 */
 
