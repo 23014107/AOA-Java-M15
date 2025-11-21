@@ -22,6 +22,8 @@ Print "YES" if it's possible to assign frequencies to towers such that no two ad
 Otherwise, print "NO".
 
 <img width="182" height="440" alt="image" src="https://github.com/user-attachments/assets/b32078a2-c79d-4a25-88c4-e51144b5456f" />
+
+
 ## Algorithm
 
 1. **Input:**
